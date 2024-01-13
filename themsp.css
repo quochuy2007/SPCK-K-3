@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    background-image: url(https://edge.fscdn.org/assets/static/media/background.d90d09caeeaa982055d5633bb48611db.svg);
+    background-image: url(https://scr.vn/wp-content/uploads/2020/08/H%C3%ACnh-n%E1%BB%81n-vector-%C4%91%E1%BA%B9p.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .wrapper {
-    background-color: lightgreen;
+    background-color: skyblue;
     padding: 50px 30px;
     width: 400px;
     margin: 50px auto;
@@ -81,7 +81,7 @@ body {
 }
 #Signinbutton {
     cursor: pointer;
-    background-color: fuchsia;
+    background-color: cyan;
     color: white;
     padding: 10px 100px;
     margin-top: 50px;
@@ -95,7 +95,7 @@ body {
     transform: translateY(0.1in);
 }
 #Signinbutton:hover{
-    background-image: linear-gradient(to bottom right, blueviolet, deeppink);
+    background-image: linear-gradient(to bottom right, blue, aqua);
     transition: transform 0.7s; 
     transform: rotate(360deg);
     box-shadow: 0 0 5px white,

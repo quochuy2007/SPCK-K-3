@@ -28,6 +28,7 @@ button.addEventListener('click',()=>{
   }
   // handle error
 }).then(task => {
+  alert ("Thêm sản phẩm thành công")
   // do something with the new task
 }).catch(error => {
   // handle error
